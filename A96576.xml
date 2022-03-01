@@ -1,0 +1,174 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>William the Third, by the grace of God King of England, Scotland, France and Ireland, defender of the faith, &amp;c. to all and singular archbishops, bishops, archdeacons, deans, and their officials, parsons, vicars, curates, and all other spiritual persons ...</title>
+            <author>England and Wales. Sovereign (1694-1702 : William III)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96576</idno>
+            <idno type="STC">Wing W2487C</idno>
+            <idno type="STC">ESTC R43965</idno>
+            <idno type="EEBO-CITATION">42476519</idno>
+            <idno type="OCLC">ocm 42476519</idno>
+            <idno type="VID">151462</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96576)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 151462)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2259:30)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>William the Third, by the grace of God King of England, Scotland, France and Ireland, defender of the faith, &amp;c. to all and singular archbishops, bishops, archdeacons, deans, and their officials, parsons, vicars, curates, and all other spiritual persons ...</title>
+                  <author>England and Wales. Sovereign (1694-1702 : William III)</author>
+                  <author>William III, King of England, 1650-1702.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Printed by Charles Bill, and the Executrix of Thomas Newcomb deceas'd ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1699 [i.e. 1700]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title from first 3 lines of text.</note>
+                  <note>For relief of Huguenot refugees in Germany.</note>
+                  <note>Reproduction of original in: Harvard University. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Huguenots --  Germany.</term>
+               <term>Great Britain --  History --  William and Mary, 1689-1702.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:151462:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 67 -->
+            <opener>
+               <signed>
+                  <seg rend="decorInit">W</seg>ILLIAM the Third, By the Grace of God, King of <hi>England, Scotland, France</hi> and <hi>Ireland,</hi> Defender of the Faith, <hi>&amp;c.</hi>
+               </signed>
+               <salute>
+                  <hi>TO ALL</hi> and Singular Archbiſhops, Biſhops, Arch<g ref="char:EOLhyphen"/>deacons, Deans and their Officials, Parſons, Vicars, Curates and all other Spiritual Perſons; and alſo to all Iuſtices of the Peace, Mayors, Sheriffs, Bayliffs, Conſtables, Churchwardens, Chapelwardens, Headboroughs, Collectors for the Poor, and their Overſeers; and alſo to all Officers of Cities, Boroughs, and Towns Corporate; and to all other Our Officers, Mi<g ref="char:EOLhyphen"/>niſters and Subjects whatſoever they be, as well within Liberties as without, to whom theſe Preſents ſhall come, Greeting.</salute>
+            </opener>
+            <p>
+               <hi>WHEREAS</hi> it has been humbly repreſented to Vs, by the Sieur <hi>Henry Arnault,</hi> and others employed by the <hi>Vaudois,</hi> Inha<g ref="char:EOLhyphen"/>bitants of the Valleys on this ſide of the River <hi>Cluſon,</hi> That they being Subjects of <hi>France</hi> before the late War, have ſince the Concluſion of the Peace, through Popiſh Cruelty, been Excluded and Baniſht from their Native Countrey, without any pre<g ref="char:EOLhyphen"/>ſent hope of Return, but by Renouncing their Holy Religion, which, through the Singular Goodneſs of God, both they and their Brethren the <hi>Vaudois</hi> of <hi>Piedmont</hi> on the other ſide of the ſaid River, have hitherto kept undefiled: Being thus ſeparated from their ſaid Brethren, and driven to ſeek a place of habitation for themſelves and their Families, to the Number of about Three thouſand five hundred Souls, deſtitute and be<g ref="char:EOLhyphen"/>reft of all means of Subſiſtence, they muſt have Periſht but for the exemplary Charity of the Proteſtant Cantons of <hi>Switzerland,</hi> by whom they have been Fed and Cloathed for theſe Five Months laſt paſt, notwithſtanding another great Charge they are at for the Maintaining of Eight thouſand Poor <hi>French</hi> Refugees, who, by reaſon of the Scarcity there, are likewiſe obliged to ſeek a Retreat elſewhere; But that now the ſaid <hi>Vaudois,</hi> and the ſaid <hi>French</hi> Refugees, having obtained ſome Waſte Lands to Inhabit in the Countries of ſome of the Proteſtant Princes in <hi>Germany,</hi> which Lands they are obliged forthwith to Plant, and to bring into Tillage, and being not able to do this of themſelves in their extream Poverty, nor even to Subſiſt while they are doing it, have therefore humbly Implored Our Royal Compaſſion, of which We take them to be very great Objects; and therefore have thought fit to grant them Our Letters Patents, for the Gathering of the Alms of all Our Loving Subjects, whoſe hearts God ſhall move to Contribute to the Re<g ref="char:EOLhyphen"/>lief of their Preſſing Neceſſity and Miſery.</p>
+            <p>
+               <hi>KNOW YE THEREFORE,</hi> That of Our eſpecial Grace and Princely Compaſſion, We have Given and Granted, and by Theſe Our Letters Patents under Our Great Seal of <hi>England,</hi> do Give and Grant unto the ſaid Diſtreſſed Proteſtants, and to their Agents who ſhall be Lawfully Authorized on their behalf, full Power, Licence and Authority, to Ask, Gather, Receive and Take (according to the Rules Specified in theſe Preſents) the Alms and Charitable Benevolence of all Our Loving Subjects, not only Houſholders, but alſo Servants, Strangers and others, within all and every the Counties, Cities, Boroughs, Towns Corporate, Priviledged Places, Pariſhes, Chapelries, Towns, Villages, Hamlets, and all other Places what<g ref="char:EOLhyphen"/>ſoever, in Our Kingdom of <hi>England,</hi> Dominion of <hi>Wales,</hi> and Town of <hi>Berwick</hi> upon <hi>Tweed.</hi>
+            </p>
+            <p>
+               <hi>WHEREFORE</hi> We Require and Command all and Singular the Archbiſhops and Biſhops of all the Provinces and Dioceſes within Our Kingdom of <hi>England</hi> and Dominion of <hi>Wales,</hi> (unto whoſe Paternal Care and Inſpection We chiefly recommend the effectual Execution of theſe Our Letters Pa<g ref="char:EOLhyphen"/>tents) that they and every of them, do give a particular Recommendation and Command to all the Parſons, Vicars and Curates of all and every the Pariſhes and other Places, as well within Liberties as without, within their reſpective Dioceſes, for the Advancement of this ſo Pious and Charitable a Work.</p>
+            <p>
+               <hi>AND</hi> Our further Will and Pleaſure is, That the ſaid Archbiſhops and Biſhops do Require their reſpective Archdeacons, that within Ten Days after the true Copies of theſe Our Letters Patents ſhall be delivered to them, to cauſe the ſame to be delivered by their reſpective Apparitors to the ſaid Par<g ref="char:EOLhyphen"/>ſons, Vicars and Curates, of all and every the Pariſhes and other the Places, as well within Liberties, as without, within the reſpective Archdeaconries to which they belong, for which the ſaid Apparitors to be allowed out of every Brief ſo delivered Four Pence only. And the ſaid Parſons, Vicars and Curates, upon the Fifth Day of <hi>April,</hi> appointed for a Day of General Faſting and Humiliation, or upon the Sixteenth Day of the ſaid Month of <hi>April,</hi> being the Sunday next after <hi>Eaſter-day,</hi> ſhall Deliberately and Affectionately Publiſh and Declare the Tenor of the ſame unto Our ſaid Loving Subjects, and earneſtly Perſwade, Exhort, and Stir them up to Contribute Freely and Chearfully towards the Relief of theſe Diſtreſſed Chriſtians. And the Church<g ref="char:EOLhyphen"/>wardens are alſo hereby required on the Week-days next following the ſaid Faſt day, or the ſaid Sixteenth Day of <hi>April,</hi> to go from Houſe to Houſe, to Ask and Receive from all the Pariſhioners, as well Maſters, Miſtreſſes and Servants, as others in their Families, their Chriſtian and Charitable Con<g ref="char:EOLhyphen"/>tributions, and to take the Names in Writing of all ſuch as ſhall Contribute thereunto, and the Sum or Sums by them reſpectively given. And after ſuch Collection made, they are in the preſence of the reſpective Inhabitants, on the next Lords Day following, to Subſcribe the whole Sums upon the ſaid Briefs under their Hands, and alſo to Enter them into Books of Accounts for the ſaid Pariſhes and Chapelries reſpectively, and the Places where, and the Times when ſuch Sums were Collected; and they are alſo to Deliver the ſame to the ſaid Parſons, Vicars and Curates reſpectively. And the ſaid Par<g ref="char:EOLhyphen"/>ſons, Vicars and Curates, are to ſend the ſaid Moneys, together with the ſaid Briefs, unto their reſpective Archdeacons; or if the Pariſh be exempt, to the Archdeacon within the Compaſs of whoſe Archdeaconry the ſaid Pariſh lies; And the ſaid ſeveral Archdeacons, to the reſpective Biſhops of the ſeveral Dio<g ref="char:EOLhyphen"/>ceſes, as herein after is Declared and Directed. And for the better performance of this ſo Pious and Charitable a Work, the ſaid Parſons, Vicars and Cu<g ref="char:EOLhyphen"/>rates reſpectively, are required, where conveniently they may, to Accompany the Churchwardens in Asking and Receiving the Contributions, or procure ſome other of the Chief of the Inhabitants in the ſaid Pariſhes reſpectively to do the ſame.</p>
+            <p>
+               <hi>AND</hi> Our further Will and Pleaſure is, and We do hereby, for the better Advancement of theſe Our Pious Intentions, Will, Require and Com<g ref="char:EOLhyphen"/>mand the Biſhops, and all other Dignitaries of the Church, that they make their Contributions diſtinctly, to be Returned in the ſeveral Provinces to the reſpective Archbiſhops of the ſame. And alſo that all Our Loving Subjects of this Kingdom, of what Dignity, Degree or Quality whatſoever, may manifeſt their Zeal in ſo good a Work, We do Recommend it to all Heads and Governors of Colleges and Halls in both Our Vniverſities, and alſo to the Iudges and Officers of all and every Our reſpective Courts at <hi>Weſtminſter,</hi> and the Profeſſors of the Law both Common and Civil, and to all Stu<g ref="char:EOLhyphen"/>dents of the ſeveral Inns of Court and Chancery, by their ſeveral Bodies and Societies, that they and every of them will Contribute their Free and Cha<g ref="char:EOLhyphen"/>ritable Benevolence herein.</p>
+            <p>
+               <hi>AND LASTLY,</hi> Our Will and Pleaſure is, That the Churchwardens of every Pariſh where theſe Our Letters Patents ſhall be Read, do Collect the Charity of each Pariſhioner in manner aforeſaid, and do Pay the ſame within Ten Days unto the Parſon, Vicar or Curate of their reſpective Pariſhes; which ſaid Parſon, Vicar or Curate, ſhall, after the Receipt of the ſaid Money, make Return thereof, together with the Printed Briefs, to his reſpective Arch<g ref="char:EOLhyphen"/>deacon, as aforeſaid, at his the ſaid Archdeacons Viſitation after the Feaſt of <hi>Eaſter</hi> next enſuing; and where there is no incumbent, the Collector or Col<g ref="char:EOLhyphen"/>lectors ſhall Pay the ſaid Money to the reſpective Archdeacons, as aforeſaid; and the Archdeacons of the ſeveral Archdeaconries ſhall Return the ſaid Collecti<g ref="char:EOLhyphen"/>ons within Ten Days next after the Receipt thereof, unto the Chancellors, Commiſſaries or Officials of their reſpective Dioceſes: And the ſaid Chan<g ref="char:EOLhyphen"/>cellors, Commiſſaries or Officials, ſhall Return them, within a Month next following, into the Chamber of Our City of <hi>London:</hi> From whence We do hereby Authorize and Appoint the moſt Reverend Father in God the Lord Archbiſhop of <hi>Canterbury,</hi> The Lord High Chancellor of <hi>England,</hi> The Lord Archbiſhop of <hi>York,</hi> The Lord Preſident of Our Council, The Lord Privy Seal, The Duke of <hi>Somerſet,</hi> Chancellor of the Vniverſity of <hi>Cam<g ref="char:EOLhyphen"/>bridge,</hi> The Duke of <hi>Ormond,</hi> Chancellor of the Vniverſity of <hi>Oxford,</hi> The Duke of <hi>Devonſhire,</hi> Lord Steward of Our Houſhold, The Lords Commiſſioners of Our Treaſury, The Earl of <hi>Stamford,</hi> Chancellor of the Dutchy of <hi>Lancaſter,</hi> The Right Reverend Fathers in God, the Lords Biſhops of <hi>London, Wincheſter, Litchfield</hi> Our Lord Almoner, <hi>Rocheſter, Sarum</hi> and <hi>Ely,</hi> The Lord Chief Iuſtice <hi>Holt,</hi> The Lord Chief Iuſtice <hi>Treby,</hi> The Lord Chief Baron <hi>Ward, James Vernon</hi> 
+               <abbr>Eſq</abbr> Our Principal Secretary of State, Our Attorney General, Our Sol<g ref="char:EOLhyphen"/>licitor General, The Lord Mayor, Sheriffs and Aldermen of Our City of <hi>London</hi> for the time being, The Vice Chancellors of both Our Vniverſities for the time being, The Dean of <hi>Canterbury,</hi> The Dean of St. <hi>Paul's,</hi> The Dean of <hi>York,</hi> Dr. <hi>Godolphin,</hi> Dr. <hi>Stanley,</hi> Dr. <hi>Younger,</hi> Reſidentiaries of St. <hi>Paul's,</hi> Dr. <hi>Willis</hi> Prebendary of <hi>Weſtminſter,</hi> Dr. <hi>Freeman</hi> Dean of <hi>Peterborough</hi> and Rector of St. <hi>Paul Covent Garden,</hi> Dr. <hi>Wake</hi> Rector of St. <hi>James's Weſtminſter,</hi> Dr. <hi>Haley</hi> Rector of St. <hi>Giles's</hi> in the Fields, Dr. <hi>Lancaſter</hi> Vicar of St. <hi>Martins</hi> in the Fields, Dr. <hi>Maningham</hi> Rector of St. <hi>Andrew's Holbourn,</hi> Dr. <hi>Hody</hi> Rector of St. <hi>Michael Royal,</hi> Dr. <hi>Izham</hi> Rector of St. <hi>Bottolph's Biſhopſgate,</hi> Mr. <hi>Bradford</hi> Rector of St. <hi>Mary le Bow,</hi> Mr. <hi>Fleetwood</hi> Rector of St. <hi>Auſtin's,</hi> Dr. <hi>Oxenden</hi> Dean of the Arches, Sir <hi>Charles Hedges,</hi> Dr. <hi>Newton</hi> Chancellor of <hi>London:</hi> And they, or any Five or more of them, are to Diſpoſe of ſuch Sums as ſhall be Collected, either in Whole or in Part, according to the Accounts and Memorials which ſhall be ſent by Mr. <hi>Philippe d' Hervart</hi> Our Envoy Extraordinary in <hi>Switzerland,</hi> and <hi>George Stepney</hi> 
+               <abbr>Eſq</abbr> Our Envoy Extraordinary at the Court of <hi>Brandenburgh,</hi> whom We have expreſly Charged to take Care of the Settlement of the <hi>Vaudois</hi> and <hi>French</hi> Refugees, in the Dominions of thoſe Princes who ſhall Receive them, and Grant them Lands, and to whom We have ſent Poſitive Orders not to Diſtribute any thing, but according to the Eſtabliſhments which ſhall be Signed by the Miniſters and Captains of the <hi>Vaudois,</hi> and the <hi>French</hi> Committees that ſhall be Appointed in thoſe Places; to the end all the Moneys may be Imployed to the beſt Vſes, and given only to ſuch as are in a Body or Society, whereby the Memory and Name of the <hi>Vaudois</hi> may be ever Preſerved, and to Contribute to the Settlement of the Poor <hi>French</hi> Proteſtants who ſhall be obliged to leave <hi>Switzerland.</hi> And We do hereby Direct and Command, That the ſaid ſeveral Archdeacons, ſhall and do make Returns to their reſpective Biſhops, and thoſe reſpective Biſhops, unto the Lord Archbiſhop of <hi>Canterbury,</hi> of what Sums they have Received at the time when they ſhall Pay them to the Chancellors, Commiſſaries or Officials; and that their reſpective Accounts be Stated in Words at length, and not in Figures only, and Subſcribed with their own Hands. <hi>IN WITNESS</hi> whereof, We have cauſed theſe Our Letters to be made Patents, to continue for one whole Year from the Date hereof, and no longer. <hi>WITNESS</hi> Our Self at <hi>Weſtminſter,</hi> the Twelfth Day of <hi>March,</hi> in the Eleventh Year of Our Reign.</p>
+            <closer>GOD SAVE THE KING.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed by <hi>Charles Bill,</hi> and the Executrix of <hi>Thomas Newcomb</hi> deceas'd, Printers to the Kings moſt Excellent Majeſty. 1699.</p>
+            <pb facs="tcp:151462:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 68 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:151462:3" rendition="simple:additions"/>
+            <!-- PDF PAGE 69 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:151462:4" rendition="simple:additions"/>
+            <!-- PDF PAGE 70 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:151462:5" rendition="simple:additions"/>
+            <!-- PDF PAGE 71 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:151462:6" rendition="simple:additions"/>
+            <!-- PDF PAGE 72 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </back>
+   </text>
+</TEI>
